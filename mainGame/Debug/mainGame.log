@@ -1,0 +1,20 @@
+﻿  mainGame.c
+C:\Users\KimHaYeon\source\repos\mainGame\Maze.h(25,2): warning C4091: 'typedef ': 변수를 선언하지 않으면 '_tileType' 왼쪽은 무시됩니다.
+C:\Users\KimHaYeon\source\repos\mainGame\Maze.h(105,21): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\KimHaYeon\source\repos\mainGame\Maze.h(121,38): warning C4305: '=': 'int'에서 'char'(으)로 잘립니다.
+C:\Users\KimHaYeon\source\repos\mainGame\AnyPang.h(28,2): warning C4091: 'typedef ': 변수를 선언하지 않으면 '_aTileAtype' 왼쪽은 무시됩니다.
+C:\Users\KimHaYeon\source\repos\mainGame\AnyPang.h(38,2): warning C4091: 'typedef ': 변수를 선언하지 않으면 '_aShape' 왼쪽은 무시됩니다.
+C:\Users\KimHaYeon\source\repos\mainGame\AnyPang.h(134,21): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\KimHaYeon\source\repos\mainGame\AnyPang.h(290,5): warning C4033: 'APlay'은(는) 값을 반환해야 합니다.
+C:\Users\KimHaYeon\source\repos\mainGame\AnyPang.h(396,22): warning C4101: 'j' :참조되지 않은 지역 변수입니다.
+C:\Users\KimHaYeon\source\repos\mainGame\AnyPang.h(396,19): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+C:\Users\KimHaYeon\source\repos\mainGame\omok.h(80,25): warning C4047: '함수': 'int *'의 간접 참조 수준이 'int'과(와) 다릅니다.
+C:\Users\KimHaYeon\source\repos\mainGame\omok.h(80,24): warning C4024: 'MoveStone': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+C:\Users\KimHaYeon\source\repos\mainGame\omok.h(80,28): warning C4047: '함수': 'int *'의 간접 참조 수준이 'int'과(와) 다릅니다.
+C:\Users\KimHaYeon\source\repos\mainGame\omok.h(80,27): warning C4024: 'MoveStone': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
+C:\Users\KimHaYeon\source\repos\mainGame\omok.h(235,26): warning C4028: 정식 매개 변수 1이(가) 선언과 다릅니다.
+C:\Users\KimHaYeon\source\repos\mainGame\omok.h(235,36): warning C4028: 정식 매개 변수 2이(가) 선언과 다릅니다.
+C:\Users\KimHaYeon\source\repos\mainGame\Chess.h(400,52): warning C4028: 정식 매개 변수 2이(가) 선언과 다릅니다.
+C:\Users\KimHaYeon\source\repos\mainGame\Chess.h(1088,9): warning C4101: 'j' :참조되지 않은 지역 변수입니다.
+C:\Users\KimHaYeon\source\repos\mainGame\AnyPang.h(291): warning C4716: 'APlay': 값을 반환해야 합니다.
+  mainGame.vcxproj -> C:\Users\KimHaYeon\source\repos\mainGame\Debug\mainGame.exe
